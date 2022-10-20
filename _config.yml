@@ -31,8 +31,8 @@ force-https: True
 
 lang: "es"
 author: "Club de Algoritmia y Programación de TecNM Campus Iztapalapa3"
-title: "Algoritmia y Programación"
-description: "Blog y Sitio Web oficial del Club de Algoritmia y Programación."
+title: "Proyecto Algoritmia y Programación"
+description: "Blog y Sitio Web oficial del Proyecto de Algoritmia y Programación."
 keywords: "algoritmia, programación, tecnm, iztapalapa3, iztapalapa 3, i3, club, algoritmia y programación"
 favicon: "/img/favicon.ico"
 
@@ -56,9 +56,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Lo mejor aún está por venir"
-  - text: "No hay crisis que dure 16 horas de trabajo"
-  - text: "Club de Algoritmia y Programación"
+  - text: "Lo mejor aún está por venir."
+  - text: "No hay crisis que dure 16 horas de trabajo."
+  - text: "Club de Algoritmia y Programación."
   - text: "Participa con nosotros!"
 
 
